@@ -1,0 +1,18 @@
+@import 'vars';
+
+.BreadCrumb{
+   display: flex;
+   margin:var(--space-sm) auto;
+   width: 78%;
+    ul{
+     padding:0px;
+     margin:0px;
+     list-style:none;
+    }
+       li {
+        float: left;
+        font-size:var(--sm);
+        color:var(--gray-light);
+        cursor: pointer;
+       }
+}

@@ -1,0 +1,30 @@
+@import 'vars';
+
+header{
+  display: flex;
+  justify-content: center;
+  padding: 10px 24px;
+  background-color: var(--yellow);
+  min-height: 40px;
+  box-shadow: 0px 5px 5px #00000063;
+}
+
+.logo{
+  width: auto;
+  height: 40px;
+  margin: 0 30px 0 0;
+  float: left;
+}
+
+.containerMain{
+  display: flex;
+    width: 80%;
+    margin: 0 auto;
+    justify-content: center;
+    padding: 0px;
+    height: 40px;
+}
+
+
+
+  

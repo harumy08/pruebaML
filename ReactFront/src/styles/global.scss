@@ -1,0 +1,11 @@
+@import 'vars';
+
+body{
+  margin: 0;
+  font-family: "Arial", Verdana, sans-serif;
+  background: var(--gray-clean);
+}
+
+:focus-visible {
+  outline:none !important;
+}
