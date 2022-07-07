@@ -21,23 +21,22 @@ https://nodejs.org/en/download/
 ## INSTALLATION
 
 1. Clone this project
-2. cd express-api
-3. To install node_modules and other dependencies and development dependencies, run the commands:
+2. cd pruebaMl
+3. cd express-api
+4. To install node_modules and other dependencies and development dependencies, run the commands:
 
 npm install
-npm install --save-dev
 
-4. To run the project locally, run
+5. To run the project locally, run
 
 node index.js
 
 Note: Keep backend running for testing on Front
 
 5. In another terminal: cd ReactFront
-    6. To install node_modules and other dependencies and development dependencies, run the commands:
+6. To install node_modules and other dependencies and development dependencies, run the commands:
 
 npm install
-npm install --save-dev
 
 7. To run the project locally, run
 
